@@ -1,3 +1,6 @@
-theme: jekyll-theme-cayman
 title: Saba Yaqoob
-description: multidisciplinary artist
+baseurl: "" 
+url: "https://mahsooon.github.io"
+
+# This tells GitHub not to use a default theme
+theme:
