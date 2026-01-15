@@ -1,6 +1,5 @@
-title: Saba Yaqoob
-baseurl: "" 
+title: Mahsoon
+baseurl: "/mahsooon2026.github.io"
 url: "https://mahsooon.github.io"
-
-# This tells GitHub not to use a default theme
-theme:
+theme: 
+remote_theme:
